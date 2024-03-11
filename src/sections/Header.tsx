@@ -14,7 +14,7 @@ export function Header2() {
   // console.log('usePathname :',path)
   let lang = path;
   const [useLang, setLang] = useState({
-    header: "Mirzaobod shaxar tibbiyot birlashmasi",
+    header: "Mirzaobod tuman tibbiyot birlashmasi",
     about: "Biz haqimizda",
     open_data: "Ochiq malumotlar",
     contact: "Bog&apos;lanish",
@@ -25,7 +25,7 @@ export function Header2() {
   useEffect(() => {
     if (lang === "/ru") {
       setLang({
-        header: "Мирзаабадский городское медицинское объединение",
+        header: "Мирзаабадское районное медицинское объединение",
         about: "О нас",
         open_data: "Открытые данные",
         contact: "Контакты",
@@ -35,7 +35,7 @@ export function Header2() {
       });
     } else if (lang === "/en") {
       setLang({
-        header: "Mirzaobod city medical association",
+        header: "Mirzaabad District Medical Association",
         about: "About Us",
         open_data: "Open data",
         contact: "Contacts",

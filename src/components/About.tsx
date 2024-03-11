@@ -7,28 +7,20 @@ export function AboutUz() {
         </h2>
 
         <ul className="text-gray-500 content-center">
-          <li>
-          Mirzaobod tuman tibbiyot birlashmasi shifoxonasi Paxtaobod shaxarchasi Chinabot 40-uyda joylashgan boʼlib,
-           tuman aholisiga tibbiy xizmat koʼrsatib kelmokda. Sardoba tumani hududida umumiy aholi soni 59112 nafarni tashkil etadi, shundan kattalar 37333 nafar,
-            oʼsmirlar 2920 nafar, 14 yoshgacha bolalar 18859 nafar, 1 yoshgacha bolalar 1373 nafar qariyalar 1252 nafar, zurriyod yoshidagi ayollar 14463 nafarni tashkil etadi.
-          </li>
-          <li>
-          Sardoba tuman tibbiyot birlashmasida 120 nafar bemor yotib davolanish oʼrinlari mavjud. 
-          
-          </li>
-          <li>
-          Tumanda yana 300 qabulga moʼljallangan koʼp tarmoqli markaziy poliklinikasi, 400 qabulga moʼljallangan 2 ta OP va 7 ta OShP lar faoliyat olib boradi.
-          </li>
+        Mirzaobod tuman tibbiyot birlashmasi haqida.
+        Mirzaobod tuman tibbiyot birlashmasi shifoxonasi Tinchlik MFY  joylashgan boʼlib, tuman aholisiga tibbiy xizmat koʼrsatib kelmokda. Mirzaobod tumani hududida umumiy aholi soni 83017 nafarni tashkil etadi, shundan kattalar 51935 nafar, oʼsmirlar 4343 nafar, 14 yoshgacha bolalar 26029 nafar, 1 yoshgacha bolalar 2941 nafar qariyalar  4924 nafar, zurriyod yoshidagi ayollar 17932 nafarni tashkil etadi.
+        Mirzaobod tuman tibbiyot birlashmasida 80 nafar bemor yotib davolanish oʼrinlari mavjud.
+        Tumanda yana 150 qabulga moʼljallangan koʼp tarmoqli markaziy poliklinikasi, 450 qabulga moʼljallangan 4 ta OP va 9 ta OShP lar faoliyat olib boradi.
           <li>
          
           <h2 className=" text-2xl text-blue-600">
           Mutaxassislar xizmati:
         </h2>
-Tuman boʼyicha jami vrachlar soni – 40 nafar. Shundan kategoriyasi borlar 
-21 nafar (44,6%), 11 ta oliy kategoriya, 6 ta birinchi kategoriya, 4 ta ikkinchi kategoriya. 
-Umumiy amaliyot shifokorlari 6 nafar. Tumanning xar 10 ming axoliga vrachlar bilan taʼminlanishi 7,1 ni tashkil etadi. Oʼrta tibbiyot xodimlari soni –
-673 nafar. Oʼrta tibbiyot hodimlari bilan taʼminlanish xar 10 ming axolisiga 102.3 ni tashkil etadi. Hamshiralardan 64 ta oliy kategoriya, 18 ta 1 kategoriya, 57 ta 2 kategoriya, jami 139 (20,6%) nafari toifaga ega.
-          </li>
+        Tuman boʼyicha jami vrachlar soni – 49 nafar. 
+        Shundan kategoriyasi borlar 16 nafar (44,6%), 10 ta oliy kategoriya, 3 ta birinchi kategoriya, 3 ta ikkinchi kategoriya. 
+        Umumiy amaliyot shifokorlari 17 nafar. Tumanning xar 10 ming axoliga vrachlar bilan taʼminlanishi 0 ni tashkil etadi. 
+        Oʼrta tibbiyot xodimlari soni – 464 nafar. 
+        Oʼrta tibbiyot hodimlari bilan taʼminlanish xar 10 ming axolisiga 0 ni tashkil etadi. Hamshiralardan 31 ta oliy kategoriya, 12 ta 1 kategoriya, 75 ta 2 kategoriya, jami 118 (0%) nafari toifaga ega.</li>
         </ul>
       </div>
     </>
@@ -59,11 +51,11 @@ export function AboutEng() {
           <h2 className=" text-2xl text-blue-600">
           Expert service:
         </h2>
-        The total number of doctors in the district is 40. There are categories
-21 people (44.6%), 11 higher category, 6 first category, 4 second category.
-There are 6 general practitioners. The provision of doctors for every 10,000 inhabitants of the district is 7.1. The number of secondary medical workers -
-673 people. Provision of secondary medical personnel is 102.3 per 10 thousand population. Of the nurses, 64 have the highest category, 18 have the 1st category, 57 have the 2nd category, a total of 139 (20.6%) have a category.
-          </li>
+        The total number of doctors in the district is 49.
+        16 of them (44.6%) have a category, 10 higher category, 3 first category, 3 second category.
+        There are 17 general practitioners. The provision of doctors for every 10,000 inhabitants of the district is 0.
+        The number of secondary medical workers is 464.
+        Provision of secondary medical personnel is 0 per 10,000 population. 31 nurses have a higher category, 12 have a 1st category, 75 have a 2nd category, a total of 118 (0%) have a category.</li>
         </ul>
       </div>
     </>
